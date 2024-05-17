@@ -5,3 +5,5 @@ A fork of [mattermost-github-integration](https://github.com/softdevteam/matterm
 Other useful setup resources:
 - https://developers.mattermost.com/integrate/webhooks/incoming/
 - https://help.launchpad.net/API/Webhooks
+
+***Current work in `launchpad` branch***
